@@ -30,6 +30,9 @@ Estos cursos se encuentran actualmente en proceso.
 
 [![English for IT](https://img.shields.io/badge/Cisco-English%20for%20IT-blue)](https://www.credly.com/badges/bc61688d-6369-4327-96a6-a8e25cd65ce1)
 
+[![Credly Badge](https://img.shields.io/badge/Credly-View%20Badge-blue?logo=credly)](https://www.credly.com/badges/3934b8a2-2ab8-43f8-bafc-32adecbd8cba)
+
+
 ## 💻 Proyectos
 
 ### 🔐 [Pass Checker](https://github.com/Ricaurte-R/pass-checker)
