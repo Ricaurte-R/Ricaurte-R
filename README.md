@@ -30,7 +30,7 @@ Estos cursos se encuentran actualmente en proceso.
 
 [![English for IT](https://img.shields.io/badge/Cisco-English%20for%20IT-blue)](https://www.credly.com/badges/bc61688d-6369-4327-96a6-a8e25cd65ce1)
 
-[![Introducción a la Ciencia de Datos](https://img.shields.io/badge/Cisco-Introducción%20a%20%la%20%Ciencia%20%de%20%Datos-blue)](https://www.credly.com/badges/3934b8a2-2ab8-43f8-bafc-32adecbd8cba)
+[![Introducción a la Ciencia de Datos](https://img.shields.io/badge/Cisco-Introducción%20a%20la%20Ciencia%20de%20Datos-blue)](https://www.credly.com/badges/3934b8a2-2ab8-43f8-bafc-32adecbd8cba)
 
 
 ## 💻 Proyectos
@@ -42,6 +42,10 @@ Programa desarrollado en Python para evaluar contraseñas según requisitos bás
 ### 🧮 [Calculadora](https://github.com/Ricaurte-R/calculator)
 
 Proyecto básico desarrollado en Python para practicar fundamentos de programación y operaciones matemáticas.
+
+### 🧮 [Small Office Network](https://github.com/Ricaurte-R/Small-Office-Network)
+
+Red cableada de una pequeña oficina desarrollada en Packet Tracer.
 
 Más proyectos serán agregados a medida que continúe avanzando en mi aprendizaje.
 
